@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://codeberg.org/elysiummm/whatthehelly/raw/branch/main/joiner_mm2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/v1xtra/Games/refs/heads/main/mm2aj.lua"))()
